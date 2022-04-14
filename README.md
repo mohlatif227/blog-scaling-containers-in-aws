@@ -7,6 +7,4 @@ This repo contains the Terraform files used for my [Scaling containers in AWS bl
 ![Image of results](./containers.svg)
 
 ## Update 1.1
-Updated [Scaling containers in AWS blog port](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/).
-
-
+Please check out this  [Scaling containers on AWS in 2022](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/).
